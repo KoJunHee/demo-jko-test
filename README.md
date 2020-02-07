@@ -11,5 +11,3 @@
     ````
     http localhost:8080/books title='the java' author='jko'
     ````
- 
-- TestContainers
